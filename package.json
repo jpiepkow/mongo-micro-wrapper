@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/jpiepkow/mongo-micro-wrapper/issues"
   },
-  "homepage": "https://github.com/jpiepkow/mongo-micro-wrapper#readme"
+  "homepage": "https://github.com/jpiepkow/mongo-micro-wrapper#readme",
+  "dependencies": {
+    "mongodb": "^2.1.2"
+  }
 }
