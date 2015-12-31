@@ -1,6 +1,6 @@
 {
   "name": "mongo-micro-wrapper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A tiny wrapper to initialize and return db connection.",
   "main": "index.js",
   "scripts": {

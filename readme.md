@@ -22,6 +22,6 @@ user:username that has db access.
 
 password: password to user.
 
-url: all the url AFTER the @
+url_end: all the url AFTER the @
 
 collection: the collection you are using *if passed in will get both db and collection object back.	
