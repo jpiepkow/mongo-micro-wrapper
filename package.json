@@ -1,0 +1,24 @@
+{
+  "name": "mongo-micro-wrapper",
+  "version": "1.0.0",
+  "description": "A tiny wrapper to initialize and return db connection.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpiepkow/mongo-micro-wrapper.git"
+  },
+  "keywords": [
+    "mongo",
+    "micro",
+    "wrapper"
+  ],
+  "author": "jordan l piepkow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpiepkow/mongo-micro-wrapper/issues"
+  },
+  "homepage": "https://github.com/jpiepkow/mongo-micro-wrapper#readme"
+}
