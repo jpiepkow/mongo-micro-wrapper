@@ -1,6 +1,6 @@
 mongo-micro-wrapper
 ===
-Description: A micro wrapper to init a db and collection.
+Description: A micro wrapper to init a db and collection. * now caches connections.
 
 ##Example
 	npm install mongo-micro-wrapper
